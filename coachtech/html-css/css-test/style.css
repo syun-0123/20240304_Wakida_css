@@ -1,0 +1,51 @@
+header{
+    width: 1000px;
+    height: 100px;
+}
+
+.logo{
+    font-size: 20px;
+    margin: 20px 20px 0 20px;
+    float:left;
+}
+
+.global-nav{
+    float: right;
+}
+
+.global-nav li{
+    float: left;
+    margin:0 20px;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.firstview img{ 
+    width: 500px;
+    height: 300px;
+    float: right;
+    z-index: 1;
+}
+
+.content h1{
+    font-size: 60px;
+    position: relative;
+    top: 150px;
+}
+
+.blue_box{
+    background-color: blue;
+    width: 800px;
+    height: 200px;
+    position: relative;
+    top: 100px;
+    z-index: -1;
+}
+
+.content{
+    width: 1000px;
+    
+}
